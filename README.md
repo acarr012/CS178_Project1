@@ -16,7 +16,7 @@ Travel Log is a Flask-based web application that allows users to create entries 
 The app can be accessed through a web brower using the URL http://192.168.0.99:8080
 
 Alternatively, you can run the app on your local machine with your own RDS instance
-1. In a terminal type `git clone https://github.com/alex-carr/CS178-Project1`
+1. In a terminal type `git clone https://github.com/acarr012/CS178-Project1`
 2. Change directory into the cloned folder using `cd CS178-Project1`
 3. Create a creds.py file in the folder with credentials for an RDS server with the world data base installed
 4. Run the flaskapp.py file using `nohup python3 flaskapp.py &`
