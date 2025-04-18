@@ -13,7 +13,7 @@ Travel Log is a Flask-based web application that allows users to create entries 
 - **AWS RDS (MySQL)** (World data storage)  
 
 ## Set Up and Run Instructions
-The app can be accessed through a web brower using the URL http://192.168.0.99:8080
+The app can be accessed through a web brower using the URL http://http://98.81.200.95:8080/
 
 Alternatively, you can run the app on your local machine with your own RDS instance
 1. In a terminal type `git clone https://github.com/acarr012/CS178-Project1`
